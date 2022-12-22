@@ -1,0 +1,70 @@
+Id,OpCo,Email,Siebel(ORD#/INC# / SerialNumber),API-Status,Comments
+519,RDE,tina.mielke@giesen.de,ORD # 1-135707550271 / 5168Z731460,KO,No contact record found
+622,RDE,Annett.Pokrandt@ricoh.de,ORD # 1-135725928351 / G156PA00771,KO,No contact record found
+609,RDE,Annika.Figel@liebherr.com,ORD # 1-135709543121 / W795P901358,KO,No contact record found
+621,RDE,t.huettemann@adam-buerosysteme.de,ORD # 1-135709543156 / C718R830240,KO,No contact record found
+336,RAT,sib@keba.com,INC # NULL / S9309601630,KO,No contact record found
+510,RDE,anna-katharina.kreitner@wlg-eg.de,ORD # 1-135721349838 / 3299M720534,OK,Order status: Submitted
+615,RDE,sabine.schuh@uni-ulm.de,INC # NULL / G696M831973,KO,No contact record found
+593,RIT,AVV.VALENTINASTEFANELLI@GMAIL.COM,INC # 1-135725928399 / E155M620176,OK,Service Request created
+592,RIT,Francesca.Bozza@ricoh.it,INC # NULL / E155M620176,KO,SR in status New available
+572,RBE,maryse@epse.be,ORD # 1-135740348442 / E175MC30335,KO,Cancelled - Line Item was ordered within last 14 days
+644,RDE,alexandra.oehl@drk-kh-neuwied.de,INC # NULL / 4202X350430,KO,No contact record found
+608,RDE,sandra.schwaderer@thermofisher.com,ORD # 1-135705498691 / C361P200052,KO,No contact record found
+528,RIT,boc77401@distribuzioneroma.coop.it,INC # 1-135705498726 / 3910PB01704,OK,Service Request created
+635,RIT,info.ilgabbianocrct@korian.it,INC # NULL / 3929PC01390,KO,No contact record found
+594,RIT,valentina.caprioli@ricoh.it,INC # 1-135695694089 / T577HC02473,OK,Service Request created
+551,RAT,kanzlei@anwalt-murau.at,INC # 1-135695694126 / V9512900756,OK,Service Request created
+580,RBE,Marc.VANDENBERGH@sealogis.com,INC # 1-135695694162 / G747R230337,OK,Service Request created
+648,RDE,Bettina.Pietsch@diakovere.de,ORD # 1-135695694198 / T577H204136,KO,Current Toner End Date is after the next 60 days
+640,RBE,Frieda.Geraerts@hoedlmayr.com,ORD # 1-135695694248 / C499P700613,KO,No contact record found
+642,RBE,pgroyne@abcoop.be,INC # NULL / MPC4504G716M620044,KO,Invalid Serial Number
+654,RDE,B.Wemhoener@notariat-moe.de,INC # 1-135695694289 / 3830CC30017,OK,Service Request created
+634,RIT,MMastrolorenzo@fedex.com,INC # NULL / 5311X507759,KO,No contact record found
+650,RDE,NB@dbfkh.de,INC # NULL / C717JA00863,KO,No contact record found
+559,RAT,Eva.Faigel@badenerhof.at,INC # 1-135693172169 / C519P200399,OK,Service Request created
+665,RDE,Kevin.Dreher@igmetall.de,ORD # 1-135693172206 / E185MB30503,KO,Bot failed while processing in Siebel
+676,RIT,Lada.Giovenzana@ricoh.it,INC # NULL / C357J500024,KO,No contact record found
+672,RIT,arianna.zanette@electroluxprofessional.com,INC # NULL / W9D8P900257,KO,Invalid Serial Number
+666,RIT,Angelo.Finizio@bitron-ind.com,INC # 1-135722432192 / C519P402066,OK,Service Request created
+668,RIT,biblioteca@comune.santostefanodimagra.sp.it,INC # 1-135722432230 / E205R961629,OK,Service Request created
+670,RIT,agenzia.laspezia@ricoh.it,INC # 1-135722432317 / C778J200022,OK,Service Request created
+631,RIT,referente.ufficio076@obi-italia.it,INC # NULL / W907PB01093,KO,No contact record found
+664,RIT,roberto.alberti@se.com,INC # NULL / E174J100788,KO,No contact record found
+680,RDE,nicole.fischer@faw.de,INC # NULL / G075P500466,KO,No contact record found
+678,RDE,nicole.fischer@faw.de,INC # NULL / G075P400157,KO,No contact record found
+697,RBE,karen.deknudt@dijledal.be,INC # 1-135737205429 / 3139M710211,OK,Service Request created
+607,RDE,claudia.naarmann@bbsw2-lu.de,ORD # 1-135737205467 / C370P800267,KO,No contact record found
+712,RBE,Fanny.Cornette@just.fgov.be,INC # 1-135737205509 / W914P800367,OK,Service Request created
+707,RDE,Peter.Fischer@svlfg.de,INC # NULL / E186M330203,KO,No contact record found
+710,RBE,sebastien@rtsampe.be,ORD # 1-135737205564 / C718R811007,KO,No contact record found
+705,RDE,Peter.Fischer@svlfg.de,INC # NULL / E186M330222,KO,No contact record found
+595,RIT,francesca.bozza@ricoh.it,INC # 1-135709543209 / E156M231329,OK,Service Request created
+688,RAT,kiga.neggurb@landeck.gv.at,ORD # 1-135709543246 / 5329XA06677,KO,No contact record found
+709,RDE,Michael.Meier@polizei.bwl.de,INC # NULL / 3930P100007,KO,SR in status New available
+716,RDE,susanne.stursberg@deutschepost.de,INC # NULL / W3058604626,KO,Bot failed while processing in Siebel
+691,RZA,admin@bluemarble.co.za,ORD # 1-135721349971 / C768R521083,KO,No contact record found
+612,RDE,Miriam.Lenz@curacon.de,INC # NULL / Y868P300229,KO,No contact record found
+711,RBE,AutajonPackaging.Belgium@AUTAJON.be,ORD # 1-135743004488 / 3710X,KO,Invalid Serial Number
+689,RZA,martin.boonzaaier@suninternational.com,ORD # NULL / V4408911670,KO,Unprocessable - Last Order was within 14 days
+734,RAT,meixner@kreativtischlerei.at,INC # NULL / E173J900078,KO,No contact record found
+725,RDE,schuh@uni-trier.de,INC # NULL / 3100R730049,KO,SR in status New available
+744,RAT,Stefan.Kitzler@lebensresort.at,INC # NULL / 3939PC00114,KO,No contact record found
+726,RIT,a.polli@bormioliluigi.it,INC # 1-135742562215 / T587H800617,OK,Service Request created
+620,RDE,annika.blunck@lhpb.de,ORD # 1-135695694351 / C508P100383,KO,No contact record found
+737,RAT,markus.bottesch@thermofisher.com,ORD # 1-135695694394 / Y868PA00640,KO,No contact record found
+728,RIT,valentina.caprioli@ricoh.it,INC # NULL / T496XB00037,KO,Time & Material (TM) contract found
+729,RIT,valentina.caprioli@ricoh.it,INC # NULL / C737M820394,KO,Time & Material (TM) contract found
+765,RDE,tkd@haus-der-dokumente.de,INC # NULL / E255C330040,KO,No contact record found
+564,RBE,dirk.de.groote@ricoh.be,INC # 1-135742462988 / C498PC00552,OK,Service Request created
+755,RAT,Meisel@stadt.kufstein.at,INC # NULL / G436P700821,KO,SR in status New available
+733,RAT,versafire2543@gmail.com,INC # NULL / X617FR130010,KO,Invalid Serial Number
+746,RAT,lukaschekk@promenteooe.at,ORD # 1-135742463044 / E175M431196,KO,No contact record found
+772,RDE,cfj@caritas-cfj.de,ORD # 1-135737205631 / Y869P100155,KO,No contact record found
+773,RIT,Agenzia.Campobasso@ricoh.it,INC # 1-135737205665 / C398P601931,OK,Service Request created
+780,RIT,info@fincasa.eu,INC # NULL / Y177H401603,KO,No contact record found
+702,RBE,julie.englebert@cpas-antoing.be,ORD # 1-135695072064 / E328M320093,KO,Invalid Serial Number
+777,RIT,vincenzo.palladino@cerbahealthcare.it,INC # NULL / C499P500487,KO,SR in status New available
+714,RDE,l.gomer@upstalsboom.de,ORD # 1-135695072079 / E214J800119,KO,No contact record found
+787,RBE,copie.conforme@skynet.be,INC # NULL / g938q830087,KO,Invalid Serial Number
+633,RIT,camela@atf.it,INC # NULL / 3371P651220,KO,SR in status New available
